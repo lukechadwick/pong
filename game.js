@@ -205,6 +205,7 @@ function mouseMoveHandler(e) {
 	}
 }
 
+
 /*Demo red square on canvas
 ctx.beginPath();
 ctx.rect(20, 40, 50, 50);

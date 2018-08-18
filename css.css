@@ -1,5 +1,6 @@
 * { 
-    padding: 0; margin: 0; 
+    padding: 0;
+    margin: 0;
 }
 
 canvas { 
@@ -8,6 +9,6 @@ canvas {
         yellow,
         #f06d06 70%
       );
-    display: block; 
-    margin: 0 auto; 
+    display: block;
+    margin: 0 auto;
 }
