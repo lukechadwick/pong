@@ -1,0 +1,13 @@
+* { 
+    padding: 0; margin: 0; 
+}
+
+canvas { 
+    background: radial-gradient(
+        circle at top right,
+        yellow,
+        #f06d06 70%
+      );
+    display: block; 
+    margin: 0 auto; 
+}
